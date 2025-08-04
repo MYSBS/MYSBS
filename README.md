@@ -22,6 +22,7 @@
 
 ### ☁️ 클라우드 & 인프라
 ![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-blue?style=for-the-badge&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-red?style=for-the-badge&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker)
 
 ### 🛠️ 개발 도구
